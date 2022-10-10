@@ -1,0 +1,14 @@
+.refreshButton {
+    width: 320px;
+    height: 40px;
+    border: none;
+    margin: 0 auto;
+    outline: none;
+    cursor: pointer;
+    background-color: #5E217A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #fff;
+    border-radius: 6px;
+    font-weight: 900;
+}
